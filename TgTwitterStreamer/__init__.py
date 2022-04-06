@@ -46,7 +46,7 @@ CUSTOM_FORMAT = """
 
 🍿 {TWEET_TEXT}
 
-• Powered by <b><a href="{_REPO_LINK}">TgTwitterStreamer</a></b>
+
 """
 
 
