@@ -19,9 +19,9 @@ async def start_message(event):
             [
                 Button.url(
                     "Source",
-                    url=REPO_LINK,
+                    url="t.me/startdoingnow"),
                 ),
-                Button.url("Support Group", url="t.me/FutureCodesChat"),
+                Button.url("Support Group", url="t.me/startdoingnow"),
             ],
         ],
     )
